@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mosaabramadan
 - 👀 I’m interested in frontend development, backend development, DevOps
 - 🌱 I’m currently learning decentralized real time databases
-- 📫 How to reach me mosaab.a.ramadan@gmail.com
 
 <!---
 mosaabramadan/mosaabramadan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
